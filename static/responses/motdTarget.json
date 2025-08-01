@@ -1,0 +1,68 @@
+{
+  "contentType": "collection",
+  "contentId": "motd-default-collection",
+  "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+  "contentItems": [
+    {
+      "contentType": "content-item",
+      "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+      "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+      "contentFields": {
+        "body": {
+          "ar": "إيجيس باك إند، تم إنشاؤه بواسطة ريزر",
+          "en": "Aegis Backend, Created by Razer",
+          "de": "Aegis Backend, erstellt von Razer",
+          "es": "Aegis Backend, creado por Razer",
+          "es-419": "Aegis Backend, creado por Razer",
+          "fr": "Aegis Backend, créé par Razer",
+          "it": "Aegis Backend, creato da Razer",
+          "ja": "Aegisバックエンド、Razerによって作成されました",
+          "ko": "Aegis 백엔드, Razer가 제작",
+          "pl": "Aegis Backend, stworzony przez Razer",
+          "pt-BR": "Aegis Backend, criado por Razer",
+          "ru": "Aegis Backend, созданный Razer",
+          "tr": "Aegis Backend, Razer tarafından oluşturuldu"
+        },
+        "entryType": "Website",
+        "image": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "url": ""
+          }
+        ],
+        "tabTitleOverride": "Aegis Backend",
+        "tileImage": [
+          {
+            "width": 1024,
+            "height": 512,
+            "url": ""
+          }
+        ],
+        "title": {
+          "ar": "مرحبًا بك في إيجيس باك إند!",
+          "en": "Welcome to Aegis Backend!",
+          "de": "Willkommen bei Aegis Backend!",
+          "es": "¡Bienvenido a Aegis Backend!",
+          "es-419": "¡Bienvenido a Aegis Backend!",
+          "fr": "Bienvenue sur Aegis Backend !",
+          "it": "Benvenuto in Aegis Backend!",
+          "ja": "Aegisバックエンドへようこそ！",
+          "ko": "Aegis 백엔드에 오신 것을 환영합니다!",
+          "pl": "Witamy w Aegis Backend!",
+          "pt-BR": "Bem-vindo ao Aegis Backend!",
+          "ru": "Добро пожаловать в Aegis Backend!",
+          "tr": "Aegis Backend'e Hoş Geldiniz!"
+        },
+        "videoAutoplay": false,
+        "videoLoop": false,
+        "videoMute": false,
+        "videoStreamingEnabled": false,
+        "websiteButtonText": "",
+        "websiteURL": ""
+      },
+      "contentHash": "aegisbackendcontenthash",
+      "contentSchemaName": "MotdWebsiteNewsWithVideo"
+    }
+  ]
+}

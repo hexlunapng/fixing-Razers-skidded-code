@@ -1,0 +1,15 @@
+{
+    "id": "63efeeb0104afc25dcce6a56",
+    "key": "fn",
+    "version": 5,
+    "revision": 7,
+    "title": "Aegis Backend End User License Agreement",
+    "body": "By using Aegis Backend, you agree to the following terms: \n\n1. You are granted a non-exclusive, non-transferable license to use Aegis Backend for personal and development purposes. \n\n2. Commercial use of Aegis Backend is permitted only if proper credits are given to 'Aegis Backend by Razer' in a visible location such as documentation, credits screen, or README. \n\n3. You may not redistribute, resell, or sublicense Aegis Backend without explicit permission. \n\n4. All rights remain with Razer, the creator of Aegis Backend. \n\n5. Aegis Backend is provided 'AS IS' without warranty of any kind. The author is not liable for damages resulting from its use.",
+    "locale": "en",
+    "createdTimestamp": "2023-02-17T21:16:32.451Z",
+    "lastModifiedTimestamp": "2023-02-17T21:16:32.451Z",
+    "status": "ACTIVE",
+    "custom": false,
+    "url": "https://cdn1.epicgames.com/eulatracking-download/fn/en/v5/r7/03dde0c0f5657d51db6bdd394a35ad98.pdf",
+    "bodyFormat": "HTML"
+}
