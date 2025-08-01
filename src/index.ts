@@ -10,11 +10,24 @@ const router = new Hono()
 const PORT = Number(process.env.BACKEND_PORT) || 3551
 const MONGO_URI = process.env.MONGO_URI!
 
+const CERT_PATH = process.env.SSL_CERT_PATH || './certs/cert.pem'
+const KEY_PATH = process.env.SSL_KEY_PATH || './certs/key.pem'
+
+if (fs.existsSync(CERT_PATH) || !fs.existsSync(KEY_PATH)) {
+  log.error('ssl cert or key file not found https cant be enabled');
+  process.exit(1);
+}
+  // grrr
+
 router.fire()
 
 Bun.serve({
   port: PORT,
   fetch: router.fetch,
+  tls: {
+    cert: fs.readFileSync(CERT_PATH),
+    key: fs.readFileSync(KEY_PATH),
+  },
 })
 
 Log.Backend(`Backend started on port ${PORT}`)
