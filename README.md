@@ -69,4 +69,4 @@ A fully custom (almost) universal Fortnite Backend written fully in **TypeScript
 
 ---
 
-**Aegis Backend** is in constant developement and is constantly going through updates if you encounter any error or problem open an issue request here or dm **RazerFrFr** on discord.
+**Aegis Backend** is in constant development and is constantly going through updates if you encounter any error or problem open an issue request here or dm **RazerFrFr** on discord.
