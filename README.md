@@ -19,7 +19,7 @@ A fully custom (almost) universal Fortnite Backend written fully in **TypeScript
 
 ## TO-DO
 
-- Add HTTPS/SSL
+
 - Add Arena/Tournaments support
 - In-game events
 
